@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #F2EAD3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    margin-bottom: 1rem;
+    color: #f90;
+    font-weight: 600;
+}
+
+h2{
+    color: #F4991A;
+    font-weight: 400;
+}
+
+p{
+    margin-bottom: 1rem;
+    color: #321313;
+
+}
+
+img{
+    width: 100%;
+    margin: 1rem 0;
+
+}
+
+main{
+    background: #fff;
+    padding: 3rem;
+    margin: 3rem auto;
+    max-width: 800px;
+    display: block;
+}
